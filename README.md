@@ -1,2 +1,2 @@
-# gamemaker-mycool1stgame [2-s]
+# gamemaker-mycool1stgame [main]
 
